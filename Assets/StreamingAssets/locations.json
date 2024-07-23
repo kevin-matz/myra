@@ -1,0 +1,46 @@
+{"LocationReports":
+    [
+        {
+            "name":"Stauffenbergallee",
+            "coords":{"_latitude":50.98400105255252,"_longitude":11.034269224198393},
+            "description":"Hier wäre ein Rastplatz & bessere Rad wege echt genail!",
+            "author":"Peter",
+            "date":"20.05.2024",
+            "demo": false
+        },
+        {
+            "name":"Bernd das Brot",
+            "coords":{"_latitude":50.97817611694336,"_longitude":11.029121398925782},
+            "description":"Wieso steht hier Bernd ich finde ja ein Dino wäre ganz cool oder so... & mein Fahrrad kann ich auch nirgendswo abstellen!",
+            "author":"Heinz",
+            "date":"24.12.2023",
+            "demo": false
+        },
+        {
+            "name":"Trinkwasserspender",
+            "coords":{"_latitude":50.97681427001953,"_longitude":11.033140182495118},
+            "description":"Wäre cool hier auch andere Getränke zu bekommen...",
+            "author":"Roland",
+            "date":"14.06.2024",
+            "demo": false
+        },
+        {
+            "name":"FHE Karte",
+            "coords":{"_latitude":50.98443603515625,
+            "_longitude":11.043667793273926},
+            "description":"Hier fehlen mehr Sportmöglichkeiten!",
+            "author":"Dario",
+            "date":"09.02.2024",
+            "demo": false
+        },
+        {
+            "name":"Anger",
+            "coords":{"_latitude":50.97709221117889,
+                "_longitude":11.03563719896838},
+            "description":"Darf man hier schwimmen?",
+            "author":"Kevin",
+            "date":"01.07.2024",
+            "demo": true
+        }
+    ]
+}

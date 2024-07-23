@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6764409666183859252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2778095051022163979}
+  - component: {fileID: 97266403571915124}
+  m_Layer: 0
+  m_Name: AstroBrain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2778095051022163979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6764409666183859252}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 36.795246, y: 3.8878446, z: -20.516571}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &97266403571915124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6764409666183859252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2a958ad895d4620a3913ae8d23fc02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  filePath: 
+  locations:
+  - name: Stauffenbergallee
+    coords:
+      _latitude: 50.983848571777344
+      _longitude: 11.034647941589355
+    description: "Hier w\xE4re ein Rastplatz & bessere Rad wege echt genail!"
+    author: Peter
+    date: 20.05.2024
+  - name: Bernd das Brot
+    coords:
+      _latitude: 50.97817611694336
+      _longitude: 11.029121398925781
+    description: "Wieso steht hier Bernd ich finde ja ein Dino w\xE4re ganz cool
+      oder so... & mein Fahrrad kann ich auch nirgendswo abstellen!"
+    author: Heinz
+    date: 24.12.2023
+  - name: Trinkwasserspender
+    coords:
+      _latitude: 50.97681427001953
+      _longitude: 11.033140182495117
+    description: "W\xE4re cool hier auch andere Getr\xE4nke zu bekommen..."
+    author: Roland
+    date: 14.06.2024
+  - name: FHE Karte
+    coords:
+      _latitude: 50.98443603515625
+      _longitude: 11.043667793273926
+    description: "Hier fehlen mehr Sportm\xF6glichkeiten!"
+    author: Dario
+    date: 09.02.2024
+  lightshipMapView: {fileID: 0}
+  modal: {fileID: 0}
+  astroSpawner: {fileID: 0}
+  flagSpawner: {fileID: 0}
+  testLocation:
+    _latitude: 50.98495323124119
+    _longitude: 11.041589883939379
